@@ -1,4 +1,4 @@
-import S8.IntroPOO.Triangulo3Att;
+package T5IntroPOO;
 
 public class Main {
     public static void main(String[] args) {

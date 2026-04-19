@@ -1,4 +1,4 @@
-package S8.IntroPOO;
+package T5IntroPOO;
 
 public class Triangulo3Att {
     // Classe => tipo estruturado, contém membros (atributos e métodos)
