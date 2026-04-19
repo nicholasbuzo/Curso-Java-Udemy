@@ -40,6 +40,25 @@ Saída de dados => Output (escrita)
 
 ### Saída de dados
 ```
-System.out.print("Hello World") # Sem quebra de linha
-System.out.println("Hello World") # Com quebra de linha
+System.out.print("Hello World") // Sem quebra de linha
+System.out.println("Hello World") // Com quebra de linha
+```
+Imprimindo uma variável com casas decimais:
+```
+System.out.printf("%.4f%n", pi); // %.xf define qtd. de x números decimais
+// %n => quebra de linha
+```
+#### Concatenação
+```
+System.out.println("Resultado: " + soma + " dólares");
+System.out.printf("%s tem %d e pesa %.2fkg\n", nome, idade, peso);
+/* Marcadores
+* %d => Inteiros
+* %s => Strings
+*/
+```
+
+### Processamento de dados
+```
+<variavel> = <expressao>;
 ```
